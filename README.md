@@ -1,3 +1,7 @@
-# aws-practitioner-prepaer
+# AWS Certification Journey
 
-### aprovado 12/23
+## 📅 Approved: AWS Certified Cloud Practitioner (Dec/2023)
+
+🎯 Próximo objetivo
+AWS Certified Solutions Architect – Associate
+Prova até 15/11/2026
